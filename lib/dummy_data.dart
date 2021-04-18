@@ -6,12 +6,12 @@ import './models/meal.dart';
 const DUMMY_CATEGORIES = const [
   Category(
     id: 'c1',
-    title: 'Nike',
+    title: 'Nikee',
     color: Colors.black87,
   ),
   Category(
     id: 'c2',
-    title: 'Lacoste',
+    title: 'Lacostie',
     color: Colors.green,
   ),
   Category(
@@ -26,7 +26,7 @@ const DUMMY_CATEGORIES = const [
   ),
   Category(
     id: 'c5',
-    title: 'Gucci',
+    title: 'Guccci',
     color: Colors.black38,
   ),
   Category(
@@ -36,22 +36,22 @@ const DUMMY_CATEGORIES = const [
   ),
   Category(
     id: 'c7',
-    title: 'Gap',
+    title: 'Gapp',
     color: Colors.blueGrey,
   ),
   Category(
     id: 'c8',
-    title: 'Micheal kors',
+    title: 'Micheal kurs',
     color: Colors.yellow,
   ),
   Category(
     id: 'c9',
-    title: 'Umbro',
+    title: 'Umbero',
     color: Colors.blue,
   ),
   Category(
     id: 'c10',
-    title: 'Addidas',
+    title: 'Addidass',
     color: Colors.black45,
   ),
 ];
